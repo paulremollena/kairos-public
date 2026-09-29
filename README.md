@@ -11,6 +11,13 @@ Audits an Obsidian or Markdown vault for orphan notes, broken or missing links, 
 - [Read the skill](skills/maintain-obsidian-vault/SKILL.md)
 - [Open the raw Markdown file](https://raw.githubusercontent.com/paulremollena/kairos-public/main/skills/maintain-obsidian-vault/SKILL.md)
 
+### Kairos Grill Me
+
+Runs a direct, one-question-at-a-time interview that captures every answer into Markdown, challenges weak assumptions, separates confirmed facts from AI suggestions, and ends with a decision-ready next action.
+
+- [Read the skill](skills/kairos-grill-me/SKILL.md)
+- [Open the raw Markdown file](https://raw.githubusercontent.com/paulremollena/kairos-public/main/skills/kairos-grill-me/SKILL.md)
+
 ## How to use
 
 Send the raw Markdown link to the AI and say:
